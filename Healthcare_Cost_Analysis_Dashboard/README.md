@@ -2,7 +2,7 @@
 This Power BI project visualises healthcare data related to patient treatments, medications, and hospital charges.  
 The goal of this dashboard was to build a clear, data-driven visual overview that allows healthcare professionals or administrators to understand **treatment costs**, **department performance**, and **disease distribution** at a glance.
 
-> *Note: The original dataset used in this project is unavailable, as it was completed prior to setting up this GitHub portfolio. However, all visuals, layout, and calculations were created independently by me in Power BI.*
+> *Note: The original file is unavailable as this project was created using the web version of Power BI. However, all visuals and layout designs were created independently by me.*
 <br>
 
 ## Key Features
