@@ -1,7 +1,7 @@
 # Overview
 This Power BI project visualises key business metrics for a fictional fitness club, focusing on trainer performance, membership trends, and customer engagement. The goal was to build a clear, interactive dashboard that allows managers to understand profitability, customer satisfaction, and marketing effectiveness at a glance.
 
->Note: The original file is unavailable as this project was created using the web version of Power BI. However, all visuals and layout designs were created independently by me.
+>*Note: The original file is unavailable as this project was created using the web version of Power BI. However, all visuals and layout designs were created independently by me.*
 <br>
 
 ## Key Features
