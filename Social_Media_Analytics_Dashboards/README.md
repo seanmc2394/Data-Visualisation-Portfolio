@@ -1,27 +1,47 @@
 # Overview
-This project presents a visual analysis of GoldCore TV's YouTube performance using Tableau. It focuses on key engagement metrics such as views, watch time, traffic sources, and top-performing videos for February.
-The dataset was provided pre-cleaned and contains a curated selection of metrics. My role focused exclusively on designing and building two Tableau dashboards that highlight:
-- Overall channel performance (views, watch time, CTR, etc.)
-- Traffic source breakdown
-- Top-performing videos and their month-over-month changes
-> *Note: The original Excel dataset is excluded due to its limited scope and formatting. All visualizations were built using this data, but the focus here is on the dashboards themselves.*
-
+This Tableau project analyses the social media and YouTube performance of **GoldCore**, an Irish precious metals investment firm.  
+The goal was to design two professional dashboards, one comparing **GoldCore’s social media presence** with its competitors, and another offering a **deep dive into its YouTube analytics**.  
+These dashboards were built to showcase data storytelling and visual communication skills using small but focused real-world data.  
+> *Note: The dataset used for this project is not included, as it contains a small, privately provided sample of marketing metrics. However, all dashboard design, layout, and analysis were independently created by me in Tableau.*
 <br>
 
-## Files Included
-- **GoldCore_Youtube_Analytics.twbx**: Tableau workbook containing both dashboards
-- Dashboard screenshots (optional for preview)
+## Dashboards
 
-## Design Decisions
-To maintain clarity and professionalism:
-- Unused Tableau sheets used during development have been removed
-- Dashboards are formatted for readability and presentation
+### Competitor Social Media Analysis
+This dashboard compares GoldCore’s social media activity against three competitors: *Bullion By Post*, *Core Bullion Traders*, and *Merrion Gold*.  
+It visualises:
+- **Follower comparisons** across Twitter/X and LinkedIn  
+- **Posting frequency** by platform  
+- **Engagement differences** among competitors  
+The layout emphasises clear comparison, brand colors for consistency, and intuitive readability for marketing teams.
 
-## Tools Used
-- Tableau
-- Microsoft Excel (for initial data review)
+### GoldCore YouTube Breakdown
+This dashboard focuses on GoldCore’s YouTube channel performance.
+It visualises:
+- **Key KPIs:** Total Impressions, Views, and Average View Duration  
+- **Top-performing videos** for the month  
+- **Traffic sources**, showing where most views originated  
+The dashboard combines KPI cards, color-coded tables, and bar charts for an engaging overview of content performance and reach.
+<br>
 
-## Key Insights
-- GoldCore TV had over **1.5M views** in February with an average view duration of **6.1 minutes**
-- The video “Jim Rogers gold and surviving the coming Dept Collapse” saw a **110.7% performance increase**
-- **Browse Features** drove the majority of traffic (95K+ views)
+## Design Approach
+The dashboards were designed with simplicity, balance, and storytelling in mind:
+- Consistent dark theme to highlight color-coded metrics  
+- Clean typography for professional readability  
+- Modular layout separating KPIs, visuals, and summaries  
+- Limited color palette (orange, green, yellow) for strong brand consistency  
+These choices mirror a real business scenario where dashboards are used by marketing and executive teams for quick, data-driven insights.
+<br>
+
+## Tools & Techniques
+- Tableau Desktop (.twbx) for all dashboard creation  
+- Excel for initial data structure  
+- **Visual elements:** KPI cards, bar charts, pie charts, and highlight tables  
+<br>
+
+## Skills Demonstrated
+- Dashboard design and storytelling in Tableau  
+- Competitor benchmarking and digital marketing analytics  
+- KPI communication for business stakeholders  
+- Visual consistency and color psychology  
+
