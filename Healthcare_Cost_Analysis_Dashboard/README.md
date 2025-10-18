@@ -10,11 +10,13 @@ The goal of this dashboard was to build a clear, data-driven visual overview tha
 - **Medication Breakdown:** Visual relationship between total charges and medication types.  
 - **Disease & Condition Insights:** Total charges segmented by diseases, showing where the highest medical costs occur.  
 - **Dynamic KPIs:** Visual cards tracking overall total charges and performance vs. goals.  
+<br>
 
 ## Tools & Techniques
 - **Power BI:** for all data visualisations and dashboard layout  
 - **Excel:** for dataset storage and import  
 - **Visuals Used:** clustered bar charts, pie charts, and matrix tables  
+<br>
 
 ## Design Notes
 The dashboard was designed to be **clear, informative, and executive-friendly**, using simple color contrasts and logical visual groupings:
@@ -23,6 +25,7 @@ The dashboard was designed to be **clear, informative, and executive-friendly**,
 - **Bottom section:** detailed cost table for reference  
 
 Each element was chosen to make it easy for non-technical stakeholders to interpret key insights quickly.
+<br>
 
 ## Skills Demonstrated
 - Data visualisation and layout design in Power BI  
