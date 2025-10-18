@@ -11,11 +11,13 @@ This Power BI project visualises key business metrics for a fictional fitness cl
 - **Visual Design:**
   - Combination of maps, bar charts, and multi-category visuals
   - Consistent colour palette and layout for readability
+<br>
 
 ## Tools & Techniques
 - Power BI (visualisation, filters, layout design)
 - Excel (data preparation and import)
 - Visuals: stacked bar charts, maps, and matrix tables
+<br>
 
 ## Design Considerations
 The dashboard was designed to mimic a professional business intelligence report for gym management, with a clean interface and balanced use of visuals. Focus was placed on:
